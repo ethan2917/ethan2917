@@ -1,6 +1,6 @@
 # Hi, I'm Ethan! :smiley:
 ## What do I do? :thought_balloon:
-- Currently I am a student at Renssalear Polytechnic Institue :school: studying Computer Science 
+- Currently I am a student at Rensselear Polytechnic Institue :school: studying Computer Science 
 ## Where have I worked? :briefcase:
 - No where yet! But I am heading into my first intership this summer at Amazon for software engineering :package:
 ## What classes have I taken? :pencil2:
