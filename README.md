@@ -11,3 +11,5 @@
 - Computer Science I which is all about Python from intro to advanced 
 ## Languages :computer:
 - C++, Python, Java, Javascript, R
+## Want to connect? :iphone:
+[LinkedIn](https://www.linkedin.com/in/ethanelizardogarcia/)
