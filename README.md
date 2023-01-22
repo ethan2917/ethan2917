@@ -8,7 +8,7 @@
 - Data Structures :worried: which is focused around C++
 - Introductory to Biology Lab where we learn about R and how to use it to interpret data :ledger:
 ### Previous
-- Computer Science I which is all about Python from intro to advanced 
+- Computer Science 1 which is all about Python from intro to advanced 
 ## Languages :computer:
 - C++, Python, Java, Javascript, R
 ## Want to connect? :postbox:
