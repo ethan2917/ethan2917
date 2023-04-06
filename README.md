@@ -5,11 +5,11 @@
 - I am a current software development engineer intern at Amazon!
 ## Relevant Courses
 ### Current
-- Data Structures
+- Data Structures (C++)
 ### Previous
 - Computer Science 1 (Python)
 ## Languages :computer:
-- C++, Python, Java, Javascript, R
+- C++, Python, Java, R
 ## Want to connect? :postbox:
 #### [LinkedIn](https://www.linkedin.com/in/ethanelizardogarcia/)
 #### [Email](ethan2917@gmail.com)
