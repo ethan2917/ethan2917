@@ -2,7 +2,7 @@
 ## What do I do? :thought_balloon:
 - Currently I am a student at Rensselear Polytechnic Institue studying Computer Science :school:
 ## Where am I working/have worked? :briefcase:
-- I am a current software engineering intern at Amazon!
+- I am a current software development engineer intern at Amazon!
 ## Courses
 ### Current
 - Data Structures :worried: which is focused around C++
