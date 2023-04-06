@@ -5,9 +5,9 @@
 - I am a current software development engineer intern at Amazon!
 ## Relevant Courses
 ### Current
-- Data Structures which is focused around C++
+- Data Structures
 ### Previous
-- Computer Science 1 which is all about Python from intro to advanced 
+- Computer Science 1 (Python)
 ## Languages :computer:
 - C++, Python, Java, Javascript, R
 ## Want to connect? :postbox:
